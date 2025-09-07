@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,django,python,postgres,mysql,sqlite,git,github,linux,postman,figma,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,django,python,postgres,mysql,sqlite,git,github,postman,figma" />
 </p>
 
 ---
